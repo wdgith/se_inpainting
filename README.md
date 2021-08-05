@@ -1,6 +1,6 @@
 # SEinpaint
 
-train 
+##train 
 python train.py --model 1 --path [checkpoint_path]
-test
+##test
 python test.py --model 1 --path [checkpoint_path]
