@@ -1,5 +1,7 @@
 # SEinpaint
 
+![Alt text](https://github.com/wdgith/se_inpainting/blob/master/module.svg)
+
 ## config.yaml
 Option          | Description
 ----------------| -----------
